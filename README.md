@@ -1,5 +1,19 @@
-### Hi there 👋
+```
+ ________________________________
+/                                \
+|     Welcome to my profile!      |
+\              ^-^               /
+ ------------------------------
+  \
+    \
+   __         __         __   
+ -=(o '     -=(o '     -=(o ' 
+   '.-.        '.-.        '.-.
+   /|  \\      /|  \\      /|  \\
+   '|  ||      '|  ||      '|  ||
+    _\_):,      _\_):,      _\_):,_
 
+```
 <!--
 **YuhKuro/YuhKuro** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
